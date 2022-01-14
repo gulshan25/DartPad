@@ -11,5 +11,5 @@ String greeting() {
 }
 
 int getAge() {
-  return 30;
+  return 25;
 }
